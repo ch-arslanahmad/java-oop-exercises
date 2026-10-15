@@ -1,0 +1,6 @@
+Name: ali	Age: 10		Grade Level: 10
+
+Subjects   | Total Marks | Obtained Marks | Percentages
+math       | 100         | 98             | 98.00 %
+--------------------------------------------------
+Total      | 100         | 98             |  98.00%
